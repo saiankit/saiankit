@@ -1,8 +1,6 @@
 ## Sai Ankit | Flutter and Firebase Developer
 
-##### BITS Pilani
-## 🚀 Full Stack App Developer
-### `Flutter` `Firebase`
+### BITS Pilani 🚀 Full Stack App Developer
 
 
 ## Skills
