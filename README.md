@@ -1,6 +1,17 @@
 ## Sai Ankit | Flutter and Firebase Developer
 
 ##### BITS Pilani
+## 🚀 Full Stack App Developer
+### `Flutter` `Firebase`
+
+
+## Skills
+`Flutter`
+`Firebase`
+`C++`
+`HTML`
+`CSS`
+`Node JS`
 <!--
 **saiankit/saiankit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
