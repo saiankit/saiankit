@@ -1,6 +1,6 @@
 ## Sai Ankit | Flutter and Firebase Developer
 
-##### Birla Institute of Technology and Science Pilani Hyderabad Campus
+##### Birla Institute of Technology and Science Pilani
 <!--
 **saiankit/saiankit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
