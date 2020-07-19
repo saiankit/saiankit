@@ -34,7 +34,7 @@
 
 ### Connect With Me
 
-<a href = "sainkit30@gmail.com">
+<a href = "mailto: sainkit30@gmail.com">
 <img src = "https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg">
 </a>
 
