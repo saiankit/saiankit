@@ -2,7 +2,7 @@
 
 ## 🏫 BITS Pilani
 
-### 🚀Skills\
+### 🚀Skills
 ###### Cross Platform App Development
 <img src = "https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg">
 
@@ -19,17 +19,33 @@
 ###### Programming Languages
 <img src ="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"> <img src="https://raw.githubusercontent.com/actions/starter-workflows/eeaa6d60cdfb9392799ce9942051b0739f2f511e/icons/c-cpp.svg"> <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
 
-### Side Passion
+### 🌈 Side Passion 
 
+###### Youtube Channel - Code Studio Sai Ankit
 <a href = "https://www.youtube.com/channel/UC_76O10A83WFpMfkclild7w">
 <img src = "https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg">
-</a><a href = "https://medium.com/@saiankit30">
+</a>
+###### Medium - Blog Writing
+<a href = "https://medium.com/@saiankit30">
 <img src = "https://www.vectorlogo.zone/logos/medium/medium-icon.svg">
 </a>
 -
-
 <img src="https://github-readme-stats.vercel.app/api?username=saiankit&hide_border=false&hide=[%22contribs%22]&show_icons=true&title_color=211165&text_color=212861&icon_color=ff3456">
 
 ### Connect With Me
 
-[![Instagram Badge](https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg)](www.instagram.com/saiankit30)  [![Gmail Badge](https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg)](mailto:saiankit30@gmail.com)  [![Gmail Badge](https://www.vectorlogo.zone/logos/medium/medium-icon.svg)](https://medium.com/@saiankit30)
+<a href = "sainkit30@gmail.com">
+<img src = "https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg">
+</a>
+
+<a href = "https://www.linkedin.com/in/sai-ankit/">
+<img src = "https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg">
+</a>
+
+<a href = "www.instagram.com/saiankit30">
+<img src = "https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg">
+</a>
+
+
+
+
