@@ -1,8 +1,8 @@
 # Sai Ankit | Flutter Full Stack Developer
 
-### 🏫 BITS Pilani
+## 🏫 BITS Pilani
 
-#### 🚀Skills
+### 🚀Skills\
 ###### Cross Platform App Development
 <img src = "https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg">
 
@@ -21,35 +21,11 @@
 
 ### Side Passion
 
-<style>
-.card:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-}
-
-.card {
-
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  transition: 0.5s;
-  border-radius: 25px; 
-  padding:10px 20px;
-}
-
-img {
-  border-radius: 5px 5px 0 0;
-}
-</style>
-<a href="https://www.youtube.com/channel/UC_76O10A83WFpMfkclild7w">
-<div class = "card">
-  <img src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg" alt="Avatar" style="width:20%">
-  <div class="container">
-    <h4><b>John Doe</b></h4>
-    <p>Architect & Engineer</p>
-  </div>
-</div>
+<a href = "https://www.youtube.com/channel/UC_76O10A83WFpMfkclild7w">
+<img src = "https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg">
+</a><a href = "https://medium.com/@saiankit30">
+<img src = "https://www.vectorlogo.zone/logos/medium/medium-icon.svg">
 </a>
-
-
-
 -
 
 <img src="https://github-readme-stats.vercel.app/api?username=saiankit&hide_border=false&hide=[%22contribs%22]&show_icons=true&title_color=211165&text_color=212861&icon_color=ff3456">
