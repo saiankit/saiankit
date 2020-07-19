@@ -1,26 +1,29 @@
-## Sai Ankit | Flutter and Firebase Developer
+# Sai Ankit | Flutter and Firebase Developer
 
 ### BITS Pilani 🚀 Full Stack App Developer
 
+#### Skills
+###### Cross Platform App Development
+<img src = "https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg">
 
-## Skills
-`Flutter`
-`Firebase`
-`C++`
-`HTML`
-`CSS`
-`Node JS`
-<!--
-**saiankit/saiankit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###### Backend
 
-Here are some ideas to get you started:
+<img src = "https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
+<img src = "https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+<img src ="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### Web Frontend
+<img src = "https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
+
+<img src = "https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
+
+###### Backend
+<img src = "https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+<img src="https://github-readme-stats.vercel.app/api?username=saiankit&hide_border=false&hide=[%22contribs%22]&show_icons=true&title_color=211165&text_color=212861&icon_color=ff3456">
+
+
+### Connect With Me
+
+|            |            |           |            |
+| ----- | ------------- | ------------- | ------------- |
+| [![Instagram Badge](https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg)](www.instagram.com/saiankit30)    | [![Gmail Badge](https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg)](mailto:saiankit30@gmail.com) | [![Gmail Badge](https://www.vectorlogo.zone/logos/medium/medium-icon.svg)](https://medium.com/@saiankit30)| |
