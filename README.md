@@ -16,9 +16,7 @@
 <img align="left" alt="saiankit | Figma" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg">
 <img align="left" alt="saiankit | Figma" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/figma.svg">
 </p>
-<p align="right">
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="375" height="250" src="https://github-readme-stats.vercel.app/api?username=saiankit&show_icons=true&theme=dark"></a>
-</p>
+<br>
 
 ### Connect with Me
 
