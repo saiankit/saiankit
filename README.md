@@ -1,72 +1,28 @@
-# Sai Ankit | Flutter Full Stack Developer
+<h1 align="center">Sai Ankit | Flutter Full Stack Developer</h1>
+<p align="left">
 
-## 🏫 BITS Pilani
+- 🙋‍♂️ I'm currently a sophomore majoring in ECE
+- 🏫 I'm currently studying in BITS Pilani
+- <img align="left" alt="saiankit | Flutter" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg">  I'm a YouTuber - [Code Studio Sai Ankit](https://www.youtube.com/c/CodeStudioSaiAnkit?sub_confirmation=1)
+- ✍ I also do technical blogging on [Medium](https://medium.com/@saiankit30)
 
-### 🚀Skills
-###### Cross Platform App Development
-<img src = "https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg">
-
-###### Backend
-
-<img src = "https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"> <img src = "https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> <img src ="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
-
-###### Web Frontend
-<img src = "https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> <img src = "https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"><img src = "https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
-
-###### Database
-<img src = "https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
-
-###### Programming Languages
-<img src ="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"> <img src="https://raw.githubusercontent.com/actions/starter-workflows/eeaa6d60cdfb9392799ce9942051b0739f2f511e/icons/c-cpp.svg"> <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
-
-### 🌈 Side Passion 
-<p>
-<div>
-
-
-
+### 🚀 Skills
+<img align="left" alt="saiankit | Flutter" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg">
+<img align="left" alt="saiankit | Dart" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg">
+<img align="left" alt="saiankit | Firebase" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg">
+<img align="left" alt="saiankit | VS Code" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg">
+<img align="left" alt="saiankit | HTML5" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg">
+<img align="left" alt="saiankit | CSS" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg">
+<img align="left" alt="saiankit | Figma" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg">
+<img align="left" alt="saiankit | Figma" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/figma.svg">
+</p>
+<p align="right">
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="375" height="250" src="https://github-readme-stats.vercel.app/api?username=saiankit&show_icons=true&theme=dark"></a>
 </p>
 
+### Connect with Me
 
-<table style="width:100%">
-        <tr>
-    <th>
-        <div width="50%">
-            <h6>Medium - Blog Writing</h6>
-            <a href = "https://medium.com/@saiankit30">
-                <img src = "https://www.vectorlogo.zone/logos/medium/medium-icon.svg">
-            </a>
-        </div>
-    </th>
-    <th>
-        <div width="50%">
-            <h6> Youtube Channel</h6>
-            <h6>Code Studio Sai Ankit</h6>
-            <a href = "https://www.youtube.com/channel/UC_76O10A83WFpMfkclild7w">
-                <img width="100%" src = "https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg">
-            </a>
-        </div>
-    </th>
-</tr>
-</table>
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=saiankit&hide_border=false&hide=[%22contribs%22]&show_icons=true&title_color=211165&text_color=212861&icon_color=ff3456">
-
-### Connect With Me
-
-<a href = "mailto: sainkit30@gmail.com">
-<img src = "https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg">
-</a>
-
-<a href = "https://www.linkedin.com/in/sai-ankit/">
-<img src = "https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg">
-</a>
-
-<a href = "www.instagram.com/saiankit30">
-<img src = "https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg">
-</a>
-
-
-
-
+[<img align="left" alt="saiankit | G Mail" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg">](mailto:sainkit30@gmail.com)
+[<img align="left" alt="saiankit | G Mail" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](https://www.instagram.com/saiankit30/)
+[<img align="left" alt="saiankit | G Mail" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg">](https://www.facebook.com/BattulaVenkataSaiAnkit/)
+[<img align="left" alt="saiankit | G Mail" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/sai-ankit/)
