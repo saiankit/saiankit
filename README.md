@@ -15,6 +15,7 @@
 <img align="left" alt="saiankit | VS Code" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg">
 <img align="left" alt="saiankit | HTML5" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg">
 <img align="left" alt="saiankit | CSS" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg">
+<br>
 <img align="left" alt="saiankit | Figma" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg">
 <img align="left" alt="saiankit | Figma" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/figma.svg">
 </p>
