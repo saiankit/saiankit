@@ -1,6 +1,6 @@
 <h1 align="center">Sai Ankit | Flutter Full Stack Developer</h1>
 <p align="left">
-<img align="right" alt="GIF" src="code.gif" width="400" height="256" />
+<img align="right" alt="GIF" src="code.gif" width="300" height="192" />
 
 - 🙋‍♂️ I'm currently a sophomore majoring in ECE
 - 🏫 I'm currently studying in BITS Pilani
@@ -15,7 +15,6 @@
 <img align="left" alt="saiankit | VS Code" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg">
 <img align="left" alt="saiankit | HTML5" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg">
 <img align="left" alt="saiankit | CSS" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg">
-<br>
 <img align="left" alt="saiankit | Figma" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg">
 <img align="left" alt="saiankit | Figma" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/figma.svg">
 </p>
