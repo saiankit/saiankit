@@ -1,5 +1,6 @@
 <h1 align="center">Sai Ankit | Flutter Full Stack Developer</h1>
 <p align="left">
+<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
 - 🙋‍♂️ I'm currently a sophomore majoring in ECE
 - 🏫 I'm currently studying in BITS Pilani
