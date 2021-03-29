@@ -21,7 +21,7 @@
 
 ### Connect with Me
 
-[<img align="left" alt="saiankit | G Mail" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg">](mailto:sainkit30@gmail.com)
-[<img align="left" alt="saiankit | G Mail" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](https://www.instagram.com/saiankit30/)
-[<img align="left" alt="saiankit | G Mail" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg">](https://www.facebook.com/BattulaVenkataSaiAnkit/)
-[<img align="left" alt="saiankit | G Mail" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/sai-ankit/)
+[<img align="left" alt="saiankit | G Mail" width=22px src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg">](mailto:sainkit30@gmail.com)
+[<img align="left" alt="saiankit | Instagram" width=22px src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg">](https://www.instagram.com/saiankit30/)
+[<img align="left" alt="saiankit | Facebook" width=22px src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg">](https://www.facebook.com/BattulaVenkataSaiAnkit/)
+[<img align="left" alt="saiankit | Linkedin" width=22px src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg">](https://www.linkedin.com/in/sai-ankit/)
