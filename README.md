@@ -12,11 +12,7 @@
 <img align="left" alt="saiankit | Swift" width=22px src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg">
 <img align="left" alt="saiankit | Dart" width=22px src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg">
 <img align="left" alt="saiankit | Firebase" width=22px src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
-<img align="left" alt="saiankit | VS Code" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg">
-<img align="left" alt="saiankit | HTML5" width=22px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
-<img align="left" alt="saiankit | CSS" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg">
 <img align="left" alt="saiankit | Javascript" width=22px src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">
-<img align="left" alt="saiankit | Figma" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/figma.svg">
 </p>
 <br>
 
