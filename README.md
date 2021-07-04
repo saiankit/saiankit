@@ -2,7 +2,7 @@
 <p align="left">
 <img align="right" alt="GIF" src="code.gif" width="350" height="224" />
 
-- 🙋‍♂️ I'm currently a sophomore majoring in ECE
+- 🙋‍♂️ I'm currently a junior majoring in ECE
 - 🏫 I'm currently studying in BITS Pilani
 - <img align="left" alt="saiankit | YouTube" width=22px src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg">I'm a YouTuber - [Code Studio Sai Ankit](https://www.youtube.com/c/CodeStudioSaiAnkit?sub_confirmation=1)
 - ✍ I also do technical blogging on [Medium](https://medium.com/@saiankit30)
